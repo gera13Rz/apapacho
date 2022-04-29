@@ -14,9 +14,10 @@
     </head>
     <body id="grid-contenedor">
         <div id="contenedorGeneral">
-
             <div id="cfLogin">
-                <p id="tituloP">Bienvenido</p>
+            
+                <p id="tituloP"> <img src="img/logo.png" class="logo" alt="Main Logo">Bienvenido</p>
+                
                 <form method="POST" action="" id="formLogin">
                     <label for="inputUsuario" style="grid-column:1/3;">Usuario</label>
 

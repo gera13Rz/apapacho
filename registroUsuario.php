@@ -16,7 +16,7 @@
             
             <div id="cRegistro">
 
-                <p id="tituloR">Regístrate</p>
+                <p id="tituloR"> <img src="img/logo.png" class="logo" alt="Main Logo"> Regístrate</p>
 
                 <form method="POST" action="" id="formR">
                     <label for="nombreR">Nombre</label>
